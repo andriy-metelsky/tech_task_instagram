@@ -1,3 +1,8 @@
+## Screenshot
+
+![Tests passed](execution_results.png)
+
+
 # Introduction 
 This is a small demo project of automated tests for Instagram’s web UI (login, sign-up, basic feed checks). 
 
@@ -36,8 +41,4 @@ To execute a test with custom marker:
 # Config
 You can adjust credentials for Instagram account in config.py. 
 Dummy email and password are used for the moment to avoid sharing the candidate’s personal data with interviewers.
-
-## Screenshot: tests passing
-
-![Tests passing](execution_results.png)
 
