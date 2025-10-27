@@ -37,3 +37,7 @@ To execute a test with custom marker:
 You can adjust credentials for Instagram account in config.py. 
 Dummy email and password are used for the moment to avoid sharing the candidate’s personal data with interviewers.
 
+## Screenshot: tests passing
+
+![Tests passing](execution_results.png)
+
