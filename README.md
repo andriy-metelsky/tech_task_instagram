@@ -1,3 +1,5 @@
+## Please click on ***SUMMARY.md*** in the project root to view the summary of the test task!
+
 ## Screenshot
 
 ![Tests passed](execution_results.png)
@@ -7,7 +9,7 @@
 This is a small demo project of automated tests for Instagram’s web UI (login, sign-up, basic feed checks). 
 
 This project is written with:
- - **Python**;  
+ - ***Python***;  
  - ***Selenium***;
  - ***Pytest***;
 
