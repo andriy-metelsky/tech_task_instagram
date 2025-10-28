@@ -13,7 +13,6 @@ class TestSignup:
         error_message = "Enter a valid email address."
 
         signup_page.fill_in_sign_up_form(user)
-        time.sleep(2)
-        #signup_page.click_next()
+        signup_page.click_next()
 
         assert signup_page.is_text_present(error_message), f"Text not found: {error_message}"
