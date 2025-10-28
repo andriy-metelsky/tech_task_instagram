@@ -1,5 +1,3 @@
-import time
-
 import pytest
 
 from src.dto.user_account_dto import UserAccountDto
